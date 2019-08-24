@@ -1,0 +1,62 @@
+object Form2: TForm2
+  Left = 427
+  Height = 516
+  Top = 63
+  Width = 584
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'XML Tree'
+  ClientHeight = 516
+  ClientWidth = 584
+  OnClose = FormClose
+  Position = poMainFormCenter
+  LCLVersion = '2.0.4.0'
+  object TreeView1: TTreeView
+    Left = 16
+    Height = 464
+    Top = 40
+    Width = 465
+    ReadOnly = True
+    TabOrder = 0
+    Options = [tvoAutoItemHeight, tvoHideSelection, tvoKeepCollapsedNodes, tvoReadOnly, tvoShowButtons, tvoShowLines, tvoShowRoot, tvoToolTips, tvoThemedDraw]
+  end
+  object TreeFilterEdit1: TTreeFilterEdit
+    Left = 16
+    Height = 25
+    Top = 8
+    Width = 465
+    ButtonWidth = 23
+    NumGlyphs = 1
+    MaxLength = 0
+    TabOrder = 1
+    FilteredTreeview = TreeView1
+  end
+  object btnclose: TButton
+    Left = 496
+    Height = 25
+    Top = 479
+    Width = 75
+    Caption = 'Clo&se'
+    OnClick = btncloseClick
+    OnExit = btncloseExit
+    TabOrder = 4
+  end
+  object expand: TButton
+    Left = 496
+    Height = 25
+    Top = 40
+    Width = 75
+    Caption = '&Expand'
+    OnClick = expandClick
+    TabOrder = 2
+  end
+  object collapse: TButton
+    Left = 496
+    Height = 25
+    Top = 72
+    Width = 75
+    Caption = '&Collapse'
+    OnClick = collapseClick
+    TabOrder = 3
+  end
+end
