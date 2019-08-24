@@ -73,6 +73,7 @@ Notes:
 
 - Just to be on the safe side, keep a backup copy of the files fed to the tool.
 - Your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software. If MS Windows blocks it, then click on the "More info" option in the displayed dialog and then click on the "Run anyway" button.
+- If you need a set of i6z archives to test this tool, then download these [Reference substances](https://iuclid6.echa.europa.eu/web/iuclid/get-reference-substances) from ECHA's IUCLID website.
 - In theory, I should be able to provide soon pre-built versions of **i6z Toolkit** for GNU/Linux and macOS systems. So stay tuned...
 
 ## Like what you see?
