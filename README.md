@@ -1,4 +1,4 @@
-# i6zToolkit
+# i6z Toolkit
 A GUI tool for manipulating IUCLID i6z files.
 
 ## What's it all about...
