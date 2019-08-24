@@ -22,7 +22,7 @@ The below list outlines the features available:
   - Archive Type (i.e., Raw Data, Dossier)
   - UUID
   - Entity Name
-  - Application creator (name & version)
+  - Creator application (name & version; i.e., IUCLID 6 v2.0.0)
   - Author
   
   Note: Preview columns are sortable by clicking on their title.
