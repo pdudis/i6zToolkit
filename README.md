@@ -61,16 +61,18 @@ XML Tree View window:
 
 ## Programming language & IDE Tool
 
-The **i6z Toolkit** was developed with the [Free Pascal ](https://www.freepascal.org) language using [Lazarus](https://www.lazarus-ide.org), a Delphi compatible cross-platform Integrated Development Environment (IDE) for Rapid Application Development (RAD). 
+The **i6z Toolkit** was developed with the [Free Pascal ](https://www.freepascal.org) language using [Lazarus](https://www.lazarus-ide.org), a Delphi compatible cross-platform Integrated Development Environment (IDE) for Rapid Application Development (RAD).
+
+Note: You might need to add to the Lazarus IDE the following packages "LazControls" and "LCL". To do so, select from the menu "Project -> Project inspector...", then right-click on the "Required Packages" node and select "Add".
 
 ## Pre-built application binary
 
-You can download a  Microsoft Windows-compatible pre-built file from [here](https://drive.google.com/file/d/1koOoMurQOieV3UAzHQodworFWpfWoDi9/view?usp=sharing).
+You can download a  Microsoft Windows-compatible pre-built file from [here](https://www.dropbox.com/s/5vwyddfctffdgg8/i6zToolkit-0.95-Beta_Win.zip?dl=0).
 
 Notes:
 
 - Just to be on the safe side, keep a backup copy of the files fed to the tool.
-- Your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software.
+- Your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software. If MS Windows blocks it, then click on the "More info" option in the displayed dialog and then click on the "Run anyway" button.
 - In theory, I should be able to provide soon pre-built versions of **i6z Toolkit** for GNU/Linux and macOS systems. So stay tuned...
 
 ## Like what you see?
