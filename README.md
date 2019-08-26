@@ -35,6 +35,8 @@ The below list outlines the features available:
   - Archive Type + Entity Name (i.e., `RAW_DATA-carboxin.i6z`)
   - UUID (i.e., `ECB5-0ba31664-6a59-4ae5-9ffa-794543dc2196.i6z`)
   
+  Note: Archives with identical Entity Names are distinguied by appending an incremented number (i.e., `carboxin_1.i6z`, `carboxin_2.i6z` etc.). Archives with no Entity Names (i.e., unnamed Dossiers) are assigned the "Unnamed" text, for example `Unnamed_1.i6z`.
+  
 - **View `Manifest.xml` in XML Tree View**
 
   The `Manifest.xml` file (contained within i6z archives) hosts key information regarding the archive. The Tree View layout allows hierarchical structured access to all this data.
