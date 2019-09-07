@@ -82,7 +82,6 @@ Notes:
 - The GNU/Linux binary was compiled on Debian 10 Buster (x64).
 - Just to be on the safe side, keep a backup copy of the files fed to the tool.
 - If you need a set of i6z archives to test this tool, then download these [Reference substances](https://iuclid6.echa.europa.eu/web/iuclid/get-reference-substances) from ECHA's IUCLID website.
-- In theory, I should be able to provide soon a pre-built version of **i6z Toolkit** for macOS systems. So stay tuned...
 
 ## Like what you see?
 
