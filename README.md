@@ -79,7 +79,7 @@ Notes:
 
 - For the MS Windows version, your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software. If MS Windows blocks it, then click on the "More info" option in the displayed dialog and then click on the "Run anyway" button.
 - The macOS binary was compiled on High Sierra (v10.13.6). Known Issue: Columns are also sorted when clicking on the first row, and not only by clicking on the title row (normal way). Seems to be an issue with the TListView component on macOS.
-- The GNU/Linux binary was compiled on Debian 10 Buster (x64).
+- The GNU/Linux binary was compiled on Debian 10 Buster (x64). If the binary isn't executable, then do `chmod +x i6zToolkit` in the terminal.
 - Just to be on the safe side, keep a backup copy of the files fed to the tool.
 - If you need a set of i6z archives to test this tool, then download these [Reference substances](https://iuclid6.echa.europa.eu/web/iuclid/get-reference-substances) from ECHA's IUCLID website.
 
