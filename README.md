@@ -69,7 +69,7 @@ Note: You might need to add to the Lazarus IDE the following packages "LazContro
 
 ## Pre-built application binaries
 
-You can download pre-built files from the below links (via Dropbox):
+You can download pre-built files from the GitHub [Releases](https://github.com/pdudis/i6zToolkit/releases) page, or from the below links (via Dropbox):
 
 - [Microsoft Windows application](https://www.dropbox.com/s/5vwyddfctffdgg8/i6zToolkit-0.95-Beta_Win.zip?dl=0)
 - [macOS application](https://www.dropbox.com/s/284orv3dcoysmwd/i6zToolkit-0.95-Beta_macOS.zip?dl=0)
