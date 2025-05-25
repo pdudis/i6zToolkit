@@ -75,7 +75,9 @@ You can download pre-built files from the GitHub [Releases](https://github.com/p
 - macOS application
     - [Up to macOS Mojave (v10.14.x)](https://www.dropbox.com/s/284orv3dcoysmwd/i6zToolkit-0.95-Beta_macOS.zip?dl=0)
     - [macOS Catalina and up (v10.15.x)](https://www.dropbox.com/s/yevzc57xv0dz483/i6zToolkit-0.95-Beta_macOS-10.15%2B.zip?dl=0)
-- [GNU/Linux application](https://www.dropbox.com/s/dia8pyqaikldclh/i6zToolkit-0.95-Beta_GNU-Linux.zip?dl=0)
+- GNU/Linux application
+  - [x11 version](https://www.dropbox.com/s/dia8pyqaikldclh/i6zToolkit-0.95-Beta_GNU-Linux.zip?dl=0)
+  - [wayland version](https://www.dropbox.com/scl/fi/yvge3mvbfc1unh6ih53yz/i6zToolkit-0.95-Beta_GNU-Linux-wayland.zip?rlkey=wopcr6g3puqehsodbuzvt2pwk&st=p4086s3i&dl=0)
 
 Notes:
 
